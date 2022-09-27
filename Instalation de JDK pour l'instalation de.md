@@ -1,0 +1,1 @@
+Instalation de JDK pour l'instalation de datasstax DevCenter. Lancement d'un docker avec Cassandra. Essaie de connection entre Datastax DevCenter et Cassandra port : 9042 et contact hosts : 172.17.0.0 mais cela n'aspas marché.
